@@ -1,10 +1,6 @@
 body{
     background-color: #ecf0f1;
-  }
-  
-  h1 {
     color: #34495e;
-    transition: color 0.5s ease-in-out;
   }
   
   .btn {
@@ -13,4 +9,12 @@ body{
   
   .clicked{
     color: rgb(147, 182, 140);
+  }
+
+  .form, .greetings {
+      display: none;
+  }
+
+  .showing {
+      display: block;
   }

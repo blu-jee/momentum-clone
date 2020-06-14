@@ -1,2 +1,2 @@
 # momentum-clone
-clone momentum desktop
+Momentum Desktop Clone

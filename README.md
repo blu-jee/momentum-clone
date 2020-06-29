@@ -5,7 +5,8 @@ Momentum Desktop Clone
 1. 위치 정보 가져오기
 2. 날씨 API 사용 (Open Weather Map)
 3. 랜덤 배경 이미지
-4. Local storage (이름, 위치, todoList 저장)
+4. Todo List 삽입/삭제
+5. Local storage (이름, 위치, todoList 저장)
 
 
 <img width="319" alt="스크린샷 2020-06-29 오후 5 16 00" src="https://user-images.githubusercontent.com/43735576/85993622-8d990100-ba31-11ea-872a-5660cd70da92.png">

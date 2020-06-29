@@ -12,7 +12,7 @@ Momentum Desktop Clone
 <kbd>
 <img width="319" alt="스크린샷 2020-06-29 오후 5 16 00" src="https://user-images.githubusercontent.com/43735576/85993622-8d990100-ba31-11ea-872a-5660cd70da92.png">
 </kbd>
-<br />
+<br /><br />
 <img width="828" alt="스크린샷 2020-06-29 오후 5 18 03" src="https://user-images.githubusercontent.com/43735576/85994389-b077e500-ba32-11ea-8622-21cd92c5699f.png">
 
 ##### Todo List 

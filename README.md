@@ -16,6 +16,26 @@ Momentum Desktop Clone
 
 <img width="835" alt="스크린샷 2020-06-29 오후 5 18 58" src="https://user-images.githubusercontent.com/43735576/85994544-e7e69180-ba32-11ea-9aa9-cababe6c7d16.png">
 
+##### RANDOM Background Images
+
+```
+const body = document.querySelector("body");
+const IMG_NUMBER = 3;
+
+function paintImage(imgNumber) {
+    const image = new Image();
+    image.src = `images/${imgNumber + 1}.jpg`;
+    image.classList.add("bgImage");
+    body.appendChild(image);
+}
+
+function genRandom() {
+    const number = Math.floor(Math.random() * IMG_NUMBER)
+    return number;
+}
+```
+
+<img width="496" alt="스크린샷 2020-06-29 오후 5 18 58" src="https://user-images.githubusercontent.com/43735576/85994544-e7e69180-ba32-11ea-9aa9-cababe6c7d16.png">
 <img width="496" alt="스크린샷 2020-06-29 오후 5 26 04" src="https://user-images.githubusercontent.com/43735576/85994816-490e6500-ba33-11ea-800e-e39e2c8fde64.png">
 
 
